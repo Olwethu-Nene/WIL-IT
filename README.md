@@ -1,2 +1,6 @@
-# WIL-IT
-This repository contains a system I developed as part of my Work Integrated Learning (WIL) project. The system was built using HTML, CSS, and JavaScript to demonstrate front-end web development skills and simulate a real-world web application environment.
+# WIL-IT: Ubunye Community Services
+Ubunye Services is a front-end web application designed to connect community members with local service providers such as plumbers, electricians, domestic workers, drivers and gardeners. The platform aims to make it easier for users to discover reliable services within their communities through a simple, accessible, and user-friendly interface.
+
+The system was developed using HTML, CSS, and JavaScript, focusing on clean design, intuitive navigation, and interactive features. Users can explore services, view provider profiles, create accounts using sign-up and login forms, and simulate bookings through dynamic page interactions. JavaScript is used to manage form validation, display service listings, and create responsive user interactions, while CSS ensures a visually consistent layout aligned with the Ubunye Services brand identity.
+
+Although the system does not include a backend or live database, all key functional flows are demonstrated using static pages and simulated data, showcasing how the full system would operate in a real-world environment. This project demonstrates the ability to plan and design a complete user experience, translate business requirements into functional interfaces, and implement interactive features using core front-end web technologies.
